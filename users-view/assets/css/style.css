@@ -1,0 +1,12 @@
+.mar-top-5{
+    margin-top: 50px !important; 
+} 
+.mar-bot-5{
+    margin-bottom: 50px !important; 
+}
+
+.descriptionString{
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 60px;
+}
